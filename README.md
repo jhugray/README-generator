@@ -1,12 +1,11 @@
 
-  # Readme Generator
+  # ReadMe Generator
 
-  https://img.shields.io/badge/<License:>-<MIT>-<blue>
-
+  [![License](https://img.shields.io/badge/<license:>-<MIT>-<blue>)](choosealicense.com/licenses/)
 
   ## Description
 
-  ipsum lorem blah blah blaj.
+  Node.js application that takes user input to generate a readme. 
 
   ## Table of Contents
 
@@ -19,11 +18,11 @@
 
   ## Installation
 
-  figure it out
+  Download the code and install the necessary dependencies.
 
   ## Usage
 
-  enjoy it
+  Run this in the command line, provide input to the questions presented to easily create a readme for your project.
   
   ## License
 
@@ -31,18 +30,16 @@
 
   ## Contributing
 
-  Moi
+  Jess Hause Ugray github.com/jhugray
 
   ## Tests
 
-  dug
+  N/A
 
   ## Questions
 
   Please don't hesitate to contact me if you have any questions!
   I can be reached at email@email.com.
-
-  GitHub: www.github.com/jhugray
-
+  [You can find more of my work on my GitHub page.](http://github.com/JHUGRAY)
 
   
