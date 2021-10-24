@@ -1,11 +1,11 @@
 
-  # ReadMe Generator
+  # README Generator
 
-  [![License](https://img.shields.io/badge/<license:>-<MIT>-<blue>)](choosealicense.com/licenses/)
+  [![License](https://img.shields.io/badge/license:-MIT-blue)](choosealicense.com/licenses/)
 
   ## Description
 
-  Node.js application that takes user input to generate a readme. 
+  This is a command line application that accepts user input, and generates a readme.md document. The generated README contains the title of the user's project, along with sections including description, table of contents, installation, usage, license, contributing, tests, and questions.
 
   ## Table of Contents
 
@@ -18,11 +18,11 @@
 
   ## Installation
 
-  Download the code and install the necessary dependencies.
+  Download the files and install the dependencies.
 
   ## Usage
 
-  Run this in the command line, provide input to the questions presented to easily create a readme for your project.
+  This is a great tool to easily generate a custom readme for any project.
   
   ## License
 
@@ -30,7 +30,7 @@
 
   ## Contributing
 
-  Jess Hause Ugray github.com/jhugray
+  Jess Hause Ugray - github/jhugray
 
   ## Tests
 
@@ -38,8 +38,8 @@
 
   ## Questions
 
-  Please don't hesitate to contact me if you have any questions!
-  I can be reached at email@email.com.
-  [You can find more of my work on my GitHub page.](http://github.com/JHUGRAY)
+  Please don't hesitate to contact me if you have any questions! <br>
+  I can be reached at jess.ugray@gmail.com.<br>
+  [You can find more of my work on my GitHub page.](http://github.com/jhugray)
 
   
